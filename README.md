@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Akash 
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning B.tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋
+I'm Akash Mohan,
 
-<!---
-aka-ish/aka-ish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-- About Me Post Graduate Diploma in Big Data Analytics (2023-23) from CDAC ACTS Bangalore.
+
+-- Bachelor's Degree in Computer Science and Engineering from Institute of Engineering and Technology Collage of Engineering, Dr. Rammanohar Lohia Awadh University Faizabad Ayodhya.
+
+-- Hobbies: Listening to Music, Talking with People
+
+How to reach me:
+
+📍 Email: akashmohan54083@gmail.com
+
+📍 Linkedin: https://www.linkedin.com/in/akash-mohan-150996196/
