@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aka-ish
+- 👋 Hi, I’m Akash 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning B.tech
 - 💞️ I’m looking to collaborate on ...
