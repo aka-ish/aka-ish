@@ -20,8 +20,8 @@
 
 ## 📫 Let’s Connect
 
-* [LinkedIn](linkedin.com/in/akash-mohan-150996196)
-* [Email](akashmohan54083@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/akash-mohan-150996196/overlay/contact-info/)
+* [Email](mailto:akashmohan54083@gmail.com)
 
 ---
 
