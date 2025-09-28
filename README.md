@@ -1,14 +1,28 @@
-Hi there 👋
-I'm Akash Mohan,
+# Hi, I’m Akash Mohan
 
--- About Me Post Graduate Diploma in Big Data Analytics (2023-23) from CDAC ACTS Bangalore.
+🎓 I graduated in **Computer Science & Engineering (2022)** from *IET Dr. Ram Manohar Lohia Avadh University*.
+📊 Completed **PG-Diploma in Big Data Analytics** from *CDAC Bangalore*.
 
--- Bachelor's Degree in Computer Science and Engineering from Institute of Engineering and Technology Collage of Engineering, Dr. Rammanohar Lohia Awadh University Faizabad Ayodhya.
+## 💡 About Me
 
--- Hobbies: Listening to Music, Talking with People
+* Strong background in **Data Analysis & Visualization**
+* Skilled in **Python, SQL, Excel, Power BI**
+* Hands-on with **data manipulation & analytics libraries (Pandas, etc.)**
+* Past experience building **Machine Learning projects**, now focusing more on **Analytics-driven solutions**
+* Open to **full-time and contract opportunities** in Data Analytics, Business Intelligence, or related fields
 
-How to reach me:
+## 🔧 Tech Stack
 
-📍 Email: akashmohan54083@gmail.com
+* **Programming & Querying:** Python | SQL
+* **Analytics & Visualization:** Excel | Power BI
+* **Data Handling:** Pandas, NumPy
+* **Machine Learning (Basics):** Scikit-learn
 
-📍 Linkedin: https://www.linkedin.com/in/akash-mohan-150996196/
+## 📫 Let’s Connect
+
+* [LinkedIn](linkedin.com/in/akash-mohan-150996196)
+* [Email](akashmohan54083@gmail.com)
+
+---
+
+⭐ Always curious to explore data, find insights, and build impactful solutions.
